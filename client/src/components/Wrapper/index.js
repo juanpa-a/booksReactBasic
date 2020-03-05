@@ -18,7 +18,7 @@ class Wrapper extends React.Component{
 
     // Initializing with an empty search
     componentDidMount = () => {
-        this.searchBooks("Harry Potter");
+        this.searchBooks("1984");
     }
 
     // Function to handle the search state
